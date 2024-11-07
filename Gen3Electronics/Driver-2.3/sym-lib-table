@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "stepper-motor-driver-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/stepper-motor-driver-eagle-import.kicad_sym")(options "")(descr ""))
+)

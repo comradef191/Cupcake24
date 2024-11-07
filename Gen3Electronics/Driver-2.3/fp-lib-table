@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "stepper-motor-driver")(type "KiCad")(uri "$(KIPRJMOD)/stepper-motor-driver.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "extruder-controller")(type "KiCad")(uri "$(KIPRJMOD)/extruder-controller.pretty")(options "")(descr ""))
+)
